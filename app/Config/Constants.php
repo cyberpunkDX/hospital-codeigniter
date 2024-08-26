@@ -92,8 +92,8 @@ define('EVENT_PRIORITY_NORMAL', 100);
  * @deprecated Use \CodeIgniter\Events\Events::PRIORITY_HIGH instead.
  */
 define('EVENT_PRIORITY_HIGH', 10);
-define('APP_NAME', 'Hosipital Codeigniter');
-define('APP_PHONE', '1-885-665-2024');
-define('APP_EMAIL', 'info@hospital.com');
-define('APP_ADDRESS', '177 Devon Lane, Miami, MK 3355');
-define('APP_WORKING_HOURS', '08.00 - 16.00 WIB');
+define('APP_NAME', 'Proof Clinic and Diagnostic');
+define('APP_PHONE', '+234 806 341 3189');
+define('APP_EMAIL', ''); 
+define('APP_ADDRESS', 'No: 1 Obiazikwo Street, B.B Owa');
+define('APP_WORKING_HOURS', '');

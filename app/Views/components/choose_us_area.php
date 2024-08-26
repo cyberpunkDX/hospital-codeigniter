@@ -36,7 +36,7 @@
                         <img src="/assets/images/icon/icon-2.svg" alt="Image">
                         <div class="ambulance-info">
                             <span>24/7 Hours Service</span>
-                            <a href="tel:1-885-665-2024">1-885-665-2024</a>
+                            <a href="tel<?= APP_PHONE; ?>">echo<?= APP_PHONE; ?></a>
                         </div>
                     </div>
                 </div>
